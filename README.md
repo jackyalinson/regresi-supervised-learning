@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32867651/README.md)
 # Supervised Learning — Analisis Regresi
 
 Repository ini berisi tugas **Supervised Learning** pada data simulasi berukuran 1.500.000 observasi dengan 30 prediktor (X1–X30) dan satu respons (Y).
