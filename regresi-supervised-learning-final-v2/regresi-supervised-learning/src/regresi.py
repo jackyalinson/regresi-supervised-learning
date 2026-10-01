@@ -14,7 +14,7 @@ warnings.filterwarnings("ignore")
 print = functools.partial(print, flush=True)
 
 FILE = "raw_data_simulasi.txt"
-NROWS = None          # isi angka (mis. 200000) untuk uji coba cepat
+NROWS = None
 ALPHA = 0.05
 XCOLS = [f"X{i}" for i in range(1, 31)]
 t0 = time.time()
